@@ -1,6 +1,6 @@
 
 {
-"spider":"https://codeberg.org/wo13468733/666/raw/branch/main/fan.txt;md5;4af14dca6964a737a88b982cb8b20055",
+"spider":"https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆","name":"高分电视推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
@@ -116,6 +116,6 @@
 	"lives": [{
 		"name": "XIUTAN",
 		"type": 0,
-		"url": "https://codeberg.org/wo13468733/666/raw/branch/main/live.txt"
+		"url": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/live.txt"
 	}]
 }
