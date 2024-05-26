@@ -103,6 +103,6 @@
 	"lives": [{
 		"name": "XIUTAN",
 		"type": 0,
-		"url": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/live.txt"
+		"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"
 	}]
 }
