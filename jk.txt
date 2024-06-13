@@ -43,7 +43,7 @@
 
 
 
-"parses": [
+ "parses": [
     {
       "name": "聚合1",
       "type": 3,
@@ -444,9 +444,8 @@
       "regex": [
         "video/tos/cn"
       ]
-    },
+    }
   ],
-
 
 	"lives": [{
 		"name": "XIUTAN",
