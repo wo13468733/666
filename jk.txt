@@ -195,16 +195,7 @@
       "ext": "https://www.zxzj.pro/",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
-    {
-      "key": "Qxys",
-      "name": "七新┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/七新影视.json"
-    },
+    
     {
       "key": "ynys",
       "name": "鸭奈┃影视",
