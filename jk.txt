@@ -658,8 +658,6 @@
     
   ],
 
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-  "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
       "name": "Google",
@@ -827,7 +825,8 @@
       ]
     }
   ],
-  "lives": [
+  
+    "lives": [
     {
       "name": "直播",
       "type": 0,
@@ -837,6 +836,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],
+  ]
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "wallpaper": "http://tool.teyonds.com/api",
+
+  
+  
+  
   
 }
