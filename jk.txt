@@ -20,7 +20,7 @@
       "timeout": 15,
       "playerType": 2,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "ngys",
@@ -43,7 +43,7 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "pgys",
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "kkys",
@@ -64,7 +64,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "nkys",
@@ -75,7 +75,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "jqys",
@@ -86,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "btys",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "lbys",
@@ -108,7 +108,7 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "https://www.libvio.pw/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "atys",
@@ -120,7 +120,7 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "https://auete.pro/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "yzys",
@@ -160,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "czys",
@@ -182,7 +182,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     {
       "key": "zxys",
@@ -193,7 +193,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     {
       "key": "Qxys",
@@ -214,7 +214,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "ssys",
@@ -225,7 +225,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/三思影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     {
       "key": "nfys",
@@ -236,7 +236,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "qyys",
@@ -257,7 +257,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/蓝光影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     {
       "key": "phys",
@@ -269,7 +269,7 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "https://physvod.com",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "rzys",
@@ -281,7 +281,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "http://rzys.xyz/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "dgys",
@@ -302,7 +302,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/爱看影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "tvys",
@@ -323,7 +323,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/xp/速映影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     {
       "key": "Shys",
@@ -334,7 +334,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "wwys",
@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "vfys",
@@ -466,7 +466,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://www.voflix.me/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     {
       "key": "lzzy",
@@ -594,7 +594,7 @@
         "喜剧片",
         "战争片"
       ],
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     {
       "key": "kkzy",
@@ -669,7 +669,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "http://m1839732.cf.caoni.ru/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
