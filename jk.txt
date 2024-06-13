@@ -663,7 +663,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     }
   ],
   "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
