@@ -110,18 +110,7 @@
       "changeable": 1,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
-    {
-      "key": "lbys",
-      "name": "利播┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15,
-      "ext": "https://libvio.link/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
-    },
+    
     {
       "key": "atys",
       "name": "奥特┃影视",
@@ -157,6 +146,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://www.czys.pro/"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
     {
@@ -183,17 +173,7 @@
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
 
-    {
-      "key": "nfys",
-      "name": "奈飞┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奈飞影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
-    },
+    
     {
       "key": "qyys",
       "name": "奇优┃影视",
