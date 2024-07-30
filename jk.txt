@@ -32,11 +32,7 @@
       "changeable": 1,
       "playerType": 2
     },
-    
-    
-    
-    
-      {
+    {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
@@ -92,10 +88,6 @@
       "changeable": 1
        "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
-    
-    
-    
-    
     {
       "key": "mmys",
       "name": "萌米┃影视",
@@ -716,6 +708,7 @@
   "lives": [
     {
       "name": "直播",
+       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
