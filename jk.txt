@@ -20,29 +20,7 @@
       "timeout": 15,
       "playerType": 2,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
-    },
-    {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.jar"
-    },
-        
-        {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "ngys",
@@ -65,7 +43,7 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "pgys",
@@ -75,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "kkys",
@@ -86,7 +64,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "nkys",
@@ -97,7 +75,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "jqys",
@@ -108,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "btys",
@@ -118,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "lbys",
@@ -129,8 +107,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 15,
-      "ext": "https://libvio.link/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "ext": "https://www.libvio.pw/",
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "atys",
@@ -142,9 +120,18 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "https://auete.pro/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
-    
+    {
+      "key": "yzys",
+      "name": "柚子┃影视",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+    },
     {
       "key": "ddys",
       "name": "低端┃影视",
@@ -155,7 +142,16 @@
       "changeable": 1,
       "playerType": 2
     },
-    
+    {
+      "key": "xxys",
+      "name": "新新┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
     {
       "key": "sjys",
       "name": "视觉┃影视",
@@ -164,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "czys",
@@ -175,9 +171,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "http://www.czys.pro/"
+      "ext": "https://czzy.top/"
     },
-
+    {
+      "key": "ljys",
+      "name": "六九┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/xgapp.php/v2/",
+      "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
     {
       "key": "zxys",
       "name": "在线┃影视",
@@ -186,10 +192,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "ext": "https://www.zxzj.pro/",
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
-    
+    {
+      "key": "Qxys",
+      "name": "七新┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/七新影视.json"
+    },
     {
       "key": "ynys",
       "name": "鸭奈┃影视",
@@ -198,10 +213,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/鸭奈影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
-
+    {
+      "key": "ssys",
+      "name": "三思┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/三思影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
     {
       "key": "nfys",
       "name": "奈飞┃影视",
@@ -210,8 +235,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奈飞影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "qyys",
@@ -221,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奇优影院.json"
+      "ext": "http://cdn.teyonds.com/xp/奇优影院.json"
     },
     {
       "key": "lgys",
@@ -231,8 +256,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/蓝光影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
+      "ext": "http://cdn.teyonds.com/xp/蓝光影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "phys",
@@ -243,11 +268,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://www.phyt.net/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "ext": "https://physvod.com",
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
-    
-
+    {
+      "key": "rzys",
+      "name": "忍者┃影视",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://rzys.xyz/",
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+    },
     {
       "key": "dgys",
       "name": "达龟┃影视",
@@ -256,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/达龟影视.json"
+      "ext": "http://cdn.teyonds.com/xp/达龟影视.json"
     },
     {
       "key": "Akys",
@@ -266,8 +301,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/爱看影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "http://cdn.teyonds.com/xp/爱看影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "tvys",
@@ -277,9 +312,140 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/TVB云播.json"
+      "ext": "http://cdn.teyonds.com/xp/TVB云播.json"
     },
-
+    {
+      "key": "syys",
+      "name": "速映┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/速映影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "Shys",
+      "name": "双黄┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
+      "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "wwys",
+      "name": "五五┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/五五影视.json"
+    },
+    {
+      "key": "Hhys",
+      "name": "黑狐┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/黑狐影视.json"
+    },
+    {
+      "key": "ggys",
+      "name": "光棍┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/光棍影视.json"
+    },
+    {
+      "key": "wfys",
+      "name": "网飞┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/网飞影视.js"
+    },
+    {
+      "key": "xsys",
+      "name": "先生┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/电影先生.js"
+    },
+    {
+      "key": "mays",
+      "name": "米爱┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/米爱影视.js"
+    },
+    {
+      "key": "qxys",
+      "name": "秋霞┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
+    },
+    {
+      "key": "xcys",
+      "name": "星辰┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/星辰影视.js"
+    },
+    {
+      "key": "jpys",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/js/荐片影视.js"
+    },
+    {
+      "key": "shys",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/骚火影视.js"
+    },
+    {
+      "key": "zzys",
+      "name": "子子┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/子子影视.js"
+    },
     {
       "key": "vdys",
       "name": "VID ┃影视",
@@ -288,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "vfys",
@@ -299,8 +465,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://www.voflix.fun/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "ext": "https://www.voflix.me/",
+      "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "lzzy",
@@ -365,7 +531,42 @@
         "欧美综艺"
       ]
     },
-
+    {
+      "key": "snzy",
+      "name": "索尼┃资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
     {
       "key": "bfzy",
       "name": "暴风┃资源",
@@ -393,46 +594,25 @@
         "喜剧片",
         "战争片"
       ],
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
-    },
-    
+      "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+    }
 
     
-    {
-      "key": "jjjx",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://codeberg.org/wo13468733/666/raw/branch/main/rt.js","ext":"https://codeberg.org/wo13468733/666/raw/branch/main/rt1.js","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/sr.js"},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/xx.js"},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/cz.js"},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/gz.js"}
-    
+
   ],
 
-  " "lives": [
+  "lives": [
     {
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "http://meowtv.top/zb",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
+  "spider": "http://m1839732.cf.caoni.ru/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
