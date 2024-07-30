@@ -144,16 +144,7 @@
       "ext": "https://auete.pro/",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
-    {
-      "key": "yzys",
-      "name": "柚子┃影视",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-    },
+    
     {
       "key": "ddys",
       "name": "低端┃影视",
@@ -255,7 +246,7 @@
       "ext": "https://www.phyt.net/",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
-    {
+    
 
     {
       "key": "dgys",
