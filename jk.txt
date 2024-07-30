@@ -137,14 +137,15 @@
     
     
     {
-      "key": "czys",
+      "key": "厂长",
       "name": "厂长┃影视",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
+      "changeable": 1,
       "ext": "https://www.czys.pro/",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
