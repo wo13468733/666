@@ -612,7 +612,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "http://m1839732.cf.caoni.ru/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
