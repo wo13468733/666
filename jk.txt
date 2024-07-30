@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },       
     {
       "key": "短剧",
@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "ngys",
@@ -52,6 +52,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2
+    },
+        {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Appxdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "mmys",
@@ -87,28 +98,8 @@
       "playerType": 2,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
-    {
-      "key": "nkys",
-      "name": "耐看┃影视",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
-    },
-    {
-      "key": "jqys",
-      "name": "剧圈┃影视",
-      "type": 3,
-      "api": "csp_Juqq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
-    },
+
+    
     {
       "key": "btys",
       "name": "比特┃影视",
@@ -155,16 +146,7 @@
       "playerType": 2
     },
     
-    {
-      "key": "sjys",
-      "name": "视觉┃影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
-    },
+    
     {
       "key": "czys",
       "name": "厂长┃影视",
@@ -174,7 +156,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "http://www.czys.pro/"
+      "ext": "https://czzy.top/"
     },
 
     {
@@ -220,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奇优影院.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奇优影视.json"
     },
     {
       "key": "lgys",
@@ -289,18 +271,7 @@
       "filterable": 1,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
-    {
-      "key": "vfys",
-      "name": "VOF ┃影视",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://www.voflix.fun/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
-    },
+    
     {
       "key": "lzzy",
       "name": "量子┃资源",
