@@ -145,7 +145,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://www.czys.pro/"
+      "ext": "https://www.czys.pro/",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
