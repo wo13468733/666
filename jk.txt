@@ -10,7 +10,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.jar"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar"
     },
     
     {
