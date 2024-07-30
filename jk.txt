@@ -20,8 +20,7 @@
       "timeout": 15,
       "playerType": 2,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
-    },
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"},
     {
       "key": "ngys",
       "name": "南瓜┃影视",
@@ -40,8 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
-    },
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"},
     {
       "key": "酷看",
       "name": "💡酷看┃秒播",
@@ -51,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "专线",
@@ -63,7 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "小点",
@@ -74,7 +72,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "原创",
@@ -86,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "mmys",
