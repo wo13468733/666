@@ -196,19 +196,6 @@
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/蓝光影视.json",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
-    {
-      "key": "phys",
-      "name": "胖虎┃影视",
-      "type": 3,
-      "api": "csp_Panghu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "https://www.phyt.net/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
-    },
-    
 
     {
       "key": "dgys",
