@@ -87,17 +87,6 @@
       "changeable": 1,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
-    {
-      "key": "kkys",
-      "name": "可可┃影视",
-      "type": 3,
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
-    },
 
     
     {
