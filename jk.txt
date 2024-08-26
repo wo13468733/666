@@ -24,7 +24,7 @@
     },
     {
       "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "name": "酷看┃秒播",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -35,7 +35,7 @@
     },       
     {
       "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "name": "上头┃短剧",
       "type": 3,
       "api": "csp_Djtt",
       "searchable": 1,
@@ -55,7 +55,7 @@
     },
         {
       "key": "小点",
-      "name": "💥小点┃多线",
+      "name": "小点┃多线",
       "type": 3,
       "api": "csp_Appxdys",
       "searchable": 1,
@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "kkys",
@@ -96,7 +96,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
     
@@ -138,7 +138,7 @@
     
 {
       "key": "厂长",
-      "name": "📔厂长┃不卡",
+      "name": "厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
