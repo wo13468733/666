@@ -11,14 +11,14 @@
     },
     {
       "key": "文采",
-      "name": "文采┃秒播",
+      "name": "💮文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"  
     },
     {
       "key": "酷看",
