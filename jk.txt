@@ -358,7 +358,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan1.txt",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
