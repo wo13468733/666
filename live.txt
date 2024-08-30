@@ -41,8 +41,8 @@ mnes镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 TITV,http://37.27.111.214:8080/live/2/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS娱乐台,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS新闻台,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 布袋戏,http://37.27.111.214:8080/live/93/hls.m3u8
 影迷纪实台,http://37.27.111.214:8080/live/92/hls.m3u8
