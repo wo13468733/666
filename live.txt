@@ -26,20 +26,26 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 台湾频道,#genre#
-凤凰中文,http://122.224.232.218:8888/udp/233.50.200.42:5140
-凤凰中文,http://122.224.232.218:8888/udp/233.50.200.191:5140
-凤凰资讯,http://122.224.232.218:8888/udp/233.50.200.192:5140
+凤凰香港,http://171.110.10.194:8181/tsfile/live/1084_1.m3u8
+凤凰中文,http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
+凤凰资讯,http://171.110.10.194:8181/tsfile/live/1082_1.m3u8
+凤凰资讯,http://222.217.246.9:8181/tsfile/live/1082_1.m3u8
+星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 
 三立新闻,http://211.72.65.236:8543/.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://211.72.65.236:8540/.m3u8
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
-mnes镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
+寰宇新闻,http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
+mnews镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
+mnews镜新闻,http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
+民视台湾台,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 TITV,http://37.27.111.214:8080/live/2/hls.m3u8
 TVBS新闻台,http://37.27.111.214:8080/live/23/hls.m3u8
@@ -62,6 +68,7 @@ GTV八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 影剧台,http://37.27.111.214:8080/live/88/hls.m3u8
 公视戏剧台,http://37.27.111.214:8080/live/87/hls.m3u8
 亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
+亚洲旅游台,http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
 猪哥亮歌厅秀,http://37.27.111.214:8080/live/35/hls.m3u8
 旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 综艺,http://37.27.111.214:8080/live/67/hls.m3u8
