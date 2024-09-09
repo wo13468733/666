@@ -95,7 +95,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow5.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/1.php"
     },
     
     {
