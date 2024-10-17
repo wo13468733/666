@@ -87,21 +87,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     
-    {
-      "key": "atys",
-      "name": "奥特┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15,
-      "ext": "https://auete.pro/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
-    },
     
     {
       "key": "ddys",
@@ -111,7 +99,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2
+      "playerType": 2,
+           "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     
     
