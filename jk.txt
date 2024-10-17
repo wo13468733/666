@@ -10,12 +10,12 @@
       "filterable": 0
     },
 
-    {
-      "key": "酷看",
-      "name": "酷看┃秒播",
+{
+      "key": "原创",
+      "name": "☀原创┃不卡",
       "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
+      "api": "csp_YCyz",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -39,7 +39,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
         {
       "key": "文采",
@@ -52,17 +53,7 @@
       "changeable": 1,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
-        {
-      "key": "小点",
-      "name": "小点┃多线",
-      "type": 3,
-      "api": "csp_Appxdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
-    },
+
     {
       "key": "mmys",
       "name": "萌米┃影视",
@@ -86,17 +77,7 @@
       "changeable": 1,
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
-    {
-      "key": "kkys",
-      "name": "可可┃影视",
-      "type": 3,
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
-    },
+
     
     {
       "key": "btys",
