@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },       
     {
       "key": "短剧",
@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "ngys",
@@ -40,7 +40,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
         {
       "key": "文采",
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
     {
@@ -65,7 +65,7 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
       "key": "pgys",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
 
     
@@ -87,7 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     
     
@@ -100,7 +100,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
-           "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+           "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     
     
@@ -115,7 +115,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czys.pro/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
     {
@@ -127,7 +127,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzja.com/",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow6.jar"
     },
     
     {
@@ -138,8 +138,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/鸭奈影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/鸭奈影视.json",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "sbys",
@@ -149,8 +149,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/素白影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/素白影视.json",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
 
     {
@@ -161,8 +161,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奈飞影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/奈飞影视.json",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     
     {
@@ -173,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/奇优影视.json"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/奇优影视.json"
     },
     {
       "key": "lgys",
@@ -183,8 +183,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/蓝光影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/蓝光影视.json",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
 
     {
@@ -195,7 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/达龟影视.json"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/达龟影视.json"
     },
     {
       "key": "Akys",
@@ -205,8 +205,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/爱看影视.json",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/爱看影视.json",
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow4.jar"
     },
     {
       "key": "tvys",
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/TVB云播.json"
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/TVB云播.json"
     },
 
     {
@@ -227,7 +227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow3.jar"
     },
     
     {
@@ -321,7 +321,7 @@
         "喜剧片",
         "战争片"
       ],
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
+      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     },
     
 
@@ -354,12 +354,12 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/live.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
+  "spider": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow1.jar",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
