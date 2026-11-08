@@ -1,64 +1,64 @@
 {
-  "sites": [
+“地盘”：[
     {
-      "key": "dbtj",
-      "name": "豆瓣┃推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+“键”：“dbtj”，
+“姓名”：“豆瓣 you you”，
+“类型”：3，
+"api": "csp_DouDou",
+“可搜索”：0，
+"quickSearch": 0,
+“可过滤”：0
     },
 
 {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+“key”：“原创”，
+“姓名”：“原创 you like you”，
+“类型”：3，
+"api": "csp_YCyz",
+"playerType": 1,
+“可搜索”：1，
+"quickSearch": 1,
+“多变”：1，
+"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },       
     {
-      "key": "短剧",
-      "name": "上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+“key”：“短剧”，
+“姓名”：“上头 you you”，
+“类型”：3，
+"api": "csp_Djtt",
+“可搜索”：1，
+"quickSearch": 1,
+“多变”：1，
+"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
     {
-      "key": "ngys",
-      "name": "南瓜┃影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+“钥匙”：“ngys”，
+“姓名”：“南瓜 you you”，
+“类型”：3，
+"api": "csp_NanGua",
+“可搜索”：1，
+"quickSearch": 1,
+“多变”：1，
+"playerType": 2,
+"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
         {
-      "key": "文采",
-      "name": "文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
+“key”：“文采”，
+“姓名”：“文采 you you”，
+“类型”：3，
+"api": "csp_Jpys",
+"playerType": 2,
+“可搜索”：1，
+"quickSearch": 1,
+“多变”：1，
+"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/fan.txt"
     },
 
     {
-      "key": "mmys",
-      "name": "萌米┃影视",
-      "type": 3,
-      "api": "csp_AppTT",
+"key": "mmys",
+“姓名”：“萌米 you you”，
+“类型”：3，
+"api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -309,36 +309,36 @@
         "港台综艺",
         "香港剧",
         "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "日本综艺",
-        "综艺频道",
-        "新马泰综艺",
-        "纪录片",
-        "科幻片",
-        "喜剧片",
-        "战争片"
-      ],
-      "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
-    },
+"quickSearch": 1,
+“可过滤”：1，
+“类别”：[
+"国产剧",
+"国产动漫",
+"大陆综艺",
+"港台综艺",
+"新马泰综艺","综艺频道",
+“可过滤”：1，
+"纪录片","新马泰综艺","综艺频道",
+"科幻片",
+"喜剧片",
+"战争片"
+"jar": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/meow2.jar"
     
 
     
     {
-      "key": "jjjx",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+“键”：“jjjx”
+“姓名”：“you you you you”
+“类型”：3，
+"api": "csp_FirstAid",
+“可搜索”：0，
+"quickSearch": 0,
+“多变”：0
     },
     
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://codeberg.org/wo13468733/666/raw/branch/main/rt.js","ext":"https://codeberg.org/wo13468733/666/raw/branch/main/rt1.js","style":{"type":"rect","ratio":1.597},
+{“key”：“dr_兔小贝”，“name”：“key”：“dr_you mayoto”：“type”：3，“api”：“https://codeberg.org/wo13468733/666/raw/branch/main/rt.js”，“ext”：“https://codeberg.org/wo13468733/666/raw/branch/main/rt1.js”，“style”：{“type”：“rect”，“ratio”：1.597}
 "searchable":0,"quickSearch":0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{[key]：[少儿教育]，[name]：[type]：3，[api]：[csp_Bili]，[style]：{[type]：[rect]，[ratio]：1.597}
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/sr.js"},
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://codeberg.org/wo13468733/666/raw/branch/main/xx.js"},
@@ -354,7 +354,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wo13468733/666/main/live.txt",
+“网址”：“https://ghfast.top/https：//raw.githubusercontent.com/djshxjsh233/migu/refs/heads/main/live.m3u”，
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -363,17 +363,17 @@
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
+“姓名”：“you you you you”
+"url": "https://dns.google/dns-query",“名字”：“谷歌”，
+"api": "csp_FirstAid",“类型”：3，
+"ips": [
         "8.8.8.8"
       ]
     },
     {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
+"quickSearch": 0,
+“多变”：0
+{“key”：“dr_兔小贝”，“name”：“key”：“dr_you mayoto”：“type”：3，“api”：“https://codeberg.org/wo13468733/666/raw/branch/main/rt.js”，“ext”：“https://codeberg.org/wo13468733/666/raw/branch/main/rt1.js”，“style”：{“type”：“rect”，“ratio”：1.597}
         "1.1.1.1",
         "1.0.0.1",
         "2606:4700:4700::1111",
